@@ -1,0 +1,24 @@
+body {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.container {
+	color: #333333;
+}
+
+.header-text {
+	text-transform: uppercase;
+	font-size: 36px;
+}
+
+.row {
+	margin-top: 115px;
+	align-items: end;
+	text-align: center;
+}
+
+.feature-text {
+	text-align: center;
+	padding-top: 26px;
+	font-size: 17px;
+}
