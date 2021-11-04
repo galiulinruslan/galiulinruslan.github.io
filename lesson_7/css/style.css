@@ -1,0 +1,106 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Tahoma, sans-serif;
+  line-height: 1.5;
+  color: #333333;
+}
+
+.section {
+  padding: 30px 10% 50px 10%;
+}
+
+.header {
+  margin-top: 70px;
+  font-size: 24px;
+  text-align: center;
+}
+
+.header span {
+  font-weight: 300;
+  display: block;
+}
+
+.header strong {
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.main {
+  margin-top: 80px;
+  text-align: center;
+}
+
+.video, .form {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.form {
+  border: 5px solid #2727d9;
+  padding: 10px;
+  margin-left: 30px;
+  text-align: center;
+}
+
+.form-header {
+  font-weight: 900;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.form input {
+  display: block;
+  width: 300px;
+  border: 1px solid #333333;
+  margin-top: 10px;
+  font-size: 18px;
+  color: #999999;
+  padding: 17px;
+  font-weight: 300;
+}
+
+.btn {
+  font-size: 18px;
+  font-weight: 300;
+  background-color: #2727d9;
+  width: 300px;
+  height: 60px;
+  color: #ffffff;
+  display: block;
+  margin: 10px auto;
+  border: none;
+}
+
+.feature {
+  margin: 80px auto;
+  text-align: center;
+}
+.col {
+  display: inline-block;
+  text-align: center;
+  margin: 10px 50px;
+}
+
+.feature-header, .clients-header {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 24px;
+}
+
+.feature-text {
+  font-size: 16px;
+  font-weight: 900;
+}
+
+.clients {
+  text-align: center;
+}
+
+.clients-col {
+  display: inline-block;
+  margin: 15px;
+}
