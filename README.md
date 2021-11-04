@@ -15,3 +15,6 @@
 
 <code>[Урок 7](https://galiulinruslan.github.io/lesson_7/ "Верстка первого макета") - Первый сайт, полностью свёрстанный на HTML и CSS
 </code>
+
+<code>[Урок 8](https://galiulinruslan.github.io/lesson_8/ "Подключение библиотеки bootstrap для быстрой верстки") - Знакомство с Bootstrap
+</code>
