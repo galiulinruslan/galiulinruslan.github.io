@@ -1,0 +1,189 @@
+@section-padding: 4rem 0 8rem;
+@reset-header: 0;
+@color: #5ba2a9;
+@opacity: 1;
+
+.font () {
+	font-size: 10px
+}
+.reg () {
+	font-family: 'museo_reg', sans-serif;
+}
+.bold () {
+	font-family: 'museo_bold', sans-serif;
+}
+
+.focus () {
+	&:focus {
+		outline: none;
+	}
+}
+
+.webkit-style () {
+	color: #515151;
+ font-size: 1.5rem;
+}
+.webkit () {
+::-webkit-input-placeholder {
+	 .webkit-style;
+}
+::-moz-placeholder {
+	 .webkit-style;
+}
+:-moz-placeholder {
+	 .webkit-style;
+}
+:-ms-input-placeholder {
+	 .webkit-style;
+}
+}
+
+.pers-icon () {
+ background: url(../img/shared/feedback/person-icon.svg) right 1.5rem center no-repeat;
+ background-size: 2rem;
+}
+.pers-telephone () {
+ background: url(../img/shared/feedback/telephone-icon.svg) right 1.5rem center no-repeat;
+ background-size: 2rem;
+}
+
+.btn () {
+ min-width: 100%;
+ padding: 1.2rem 0;
+ background-color: @color;
+ text-transform: uppercase;
+ border: none;
+ color: #ffffff;
+ font-size: 1.8rem;
+ -webkit-transition: 0.4s;
+ transition: 0.4s;
+}
+
+.wrapper-icon () {
+	 content: '';
+  display: inline-block;
+  width: 1.5rem;
+  height: 0.1rem;
+  margin-bottom: 15px;
+  background-color: @color;
+}
+
+html {
+	.font;
+}
+
+body {
+	.reg;
+}
+
+section {
+	padding: @section-padding;
+}
+
+a {
+	&:hover, &:focus, &:active {
+		text-decoration: none;
+	};
+}
+
+
+button, input, a, textarea {
+	.focus;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	margin: @reset-header;
+}
+
+.section-title {
+	margin-bottom: 6rem;
+ text-align: center;
+ text-transform: uppercase;
+ .bold;
+ font-size: 3rem;
+ color: #1b1b1b;
+ & .upper-icon-wrapper {
+ 	&::before {
+ 	.wrapper-icon;
+ }
+ }
+ & .upper-icon-wrapper {
+ 	&::after {
+ 	.wrapper-icon;
+ }
+ & .upper-icon {
+ 	margin-bottom: 1.5rem;
+  width: 2rem;
+  height: 2rem;
+ }
+ }
+}
+
+.feedback-form {
+	&s-all {
+		padding: 6rem 0 9rem 0;
+	}
+
+	&-statement {
+		padding: 6rem 0 0;
+	}
+
+	&-title {
+		margin-bottom: 6rem;
+		text-align: center;
+
+		& h3 {
+			margin-bottom: 1.2rem;
+			.bold;
+			font-size: 2.5rem;
+			color: #1b1b1b;
+		}
+
+		& p {
+			font-size: 1.8rem;
+		}
+	}
+
+	&-input {
+		position: relative;
+		width: 100%;
+		padding: 1.4rem 4.5rem 1.4rem 1.4rem;
+  border: 2px solid #d0d0d0;
+  opacity: .5;
+  color: #454545;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transitiosn: 0.3s;
+  transition: 0.3s;
+  .webkit;
+  &:hover, &:focus {
+  	opacity:@opacity;
+  }
+	}
+
+& .input-user {
+	.pers-icon;
+}
+
+& .input-phone {
+	.pers-telephone;
+}
+
+&-btn {
+	.btn;
+	&:hover {
+		background-color: #488389;
+  border-radius: 10px;
+	}
+}
+
+& .title-feedback {
+	display: block;
+}
+
+& .description-feedback {
+	display: block;
+	} 
+}
+
+
