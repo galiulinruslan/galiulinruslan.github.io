@@ -21,3 +21,6 @@
 
 <code>[Урок 9](https://galiulinruslan.github.io/lesson_9/ "Верстка при помощи Bootstrap 3") - Сайт из урока 7, свёрстанный с помощью Bootstrap
 </code>
+
+<code>[Урок 10](https://galiulinruslan.github.io/lesson_10/less/main.less "Препроцессор LESS для CSS") - Знакомство с LESS
+</code>
