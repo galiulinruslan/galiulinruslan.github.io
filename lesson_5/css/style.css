@@ -1,0 +1,49 @@
+body {
+	background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612470114_144-p-seraya-kartinka-fon-bez-nichego-190.jpg);
+ font-family: sans-serif;
+}
+
+.heading {
+	text-align: center;
+	color: #182628;
+}
+
+h4 {
+	text-decoration: underline;
+}
+
+.content {
+	border: 1px solid #6e6e6e;
+	border-radius: 5px;
+	padding: 5px;
+	background-color: #fbfbfb;
+}
+
+.disclaimer {
+	font-style: italic;
+}
+
+.nav {
+	display: block;
+	position: relative;
+	margin: 0 39%;
+	min-width: 130px;
+}
+
+.chapter {
+	display: block;
+	padding: 5px;
+	text-decoration: none;
+	color: #0f7afc;
+	border-bottom: 1px solid;
+	border-bottom-color: rgba(15, 122, 252, 0.2);
+}
+
+a:hover {
+ color: #cf0000;
+ border-bottom-color: rgba(208, 64, 0, 0.2);
+}
+
+span {
+	font-weight: bold;
+}
