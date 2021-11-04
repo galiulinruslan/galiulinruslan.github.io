@@ -18,3 +18,6 @@
 
 <code>[Урок 8](https://galiulinruslan.github.io/lesson_8/ "Подключение библиотеки bootstrap для быстрой верстки") - Знакомство с Bootstrap
 </code>
+
+<code>[Урок 9](https://galiulinruslan.github.io/lesson_9/ "Верстка при помощи Bootstrap 3") - Сайт из урока 7, свёрстанный с помощью Bootstrap
+</code>
