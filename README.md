@@ -24,3 +24,6 @@
 
 <code>[Урок 10](https://galiulinruslan.github.io/lesson_10/less/main.less "Препроцессор LESS для CSS") - Знакомство с LESS
 </code>
+
+<code>[Урок 12](https://galiulinruslan.github.io/lesson_12/ "Хостинг от GitHub") - Работа с репозиторием на GitHub 
+</code>
