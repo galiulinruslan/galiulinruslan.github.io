@@ -21,3 +21,5 @@
 [Урок 12](https://galiulinruslan.github.io/lesson_12/ "Хостинг от GitHub") - Работа с репозиторием на GitHub 
 
 [Урок 13](https://galiulinruslan.github.io/lesson_13/ "PixelPerfect") - Форма, свёрстанная в стиле PixelPerfect 
+
+[Урок Практики. Часть 1](https://galiulinruslan.github.io/lesson_practic_part_1/ "Подготовка файлов. Верстка шапки сайта.") - Вёрстка шапки сайта 
