@@ -19,3 +19,5 @@
 [Урок 10](https://galiulinruslan.github.io/lesson_10/less/main.less "Препроцессор LESS для CSS") - Знакомство с LESS
 
 [Урок 12](https://galiulinruslan.github.io/lesson_12/ "Хостинг от GitHub") - Работа с репозиторием на GitHub 
+
+[Урок 13](https://galiulinruslan.github.io/lesson_13/ "PixelPerfect") - Форма, свёрстанная в стиле PixelPerfect 
