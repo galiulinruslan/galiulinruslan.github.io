@@ -22,7 +22,9 @@
 
 [Урок 13](https://galiulinruslan.github.io/lesson_13/ "PixelPerfect") - Форма, свёрстанная в стиле PixelPerfect 
 
-[Урок 14](https://galiulinruslan.github.io/lesson_14/ "Подключение шрифтов") - Подбор и подключение шрифтов 
+[Урок 14](https://galiulinruslan.github.io/lesson_14/ "Подключение шрифтов") - Подбор и подключение шрифтов
+
+[Урок 15](https://galiulinruslan.github.io/lesson_15/ "Псевдоклассы и псевдоэлементы") - Изучение и применение псевдоклассов и псевдоэлементов
 
 [Урок Практики. Часть 1](https://galiulinruslan.github.io/lesson_practic_part_1/ "Подготовка файлов. Верстка шапки сайта.") - Вёрстка шапки сайта 
 
