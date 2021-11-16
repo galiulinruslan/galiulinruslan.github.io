@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Всплывающие окна</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<!-- Кнопка "Удалить файл"  -->
+	<button type="button" class="btn btn-primary btn-lg button-delete" data-toggle="modal" data-target="#deleteFile">Удалить файл</button>
+	<!-- Модальное окно -->
+	<div class="modal fade" id="deleteFile">
+		<!-- Модальное (белое) окно -->
+	  <div class="modal-dialog">
+	  	<!-- Контент модального окна -->
+	    <div class="modal-content">
+	    	<!-- Шапка модального окна -->
+	      <div class="modal-header">
+	      	<!-- Кнопка закрыть (крестик) модального окна -->
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	        <!-- Заголовок модального окна -->
+	        <h4 class="modal-title">Удаление файла</h4>
+	      </div>
+	      <!-- Тело модального окна -->
+	      <div class="modal-body">
+	        <p>Вы действительно  хотите удалить файл?</p>
+	      </div>
+	      <!-- Подвал модального окна (футер) -->
+	      <div class="modal-footer">
+	      	<!-- Кнопки подвала модального окна ("Да" и "Нет") -->
+	        <button type="button" class="btn btn-default" data-dismiss="modal">Нет</button>
+	        <button type="button" class="btn btn-primary">Да</button>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</body>
+</html>
