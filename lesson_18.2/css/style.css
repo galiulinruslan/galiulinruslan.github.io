@@ -1,0 +1,51 @@
+body {
+	background: url(../img/bg-image.jpg) no-repeat;
+	background-size: 100%;
+	font-size: 18px;
+}
+
+.panel-group {
+	width: 60%;
+	margin: 0 auto;
+}
+
+.container {
+	text-align: center;
+}
+
+.header {
+	margin: 80px 0 30px 0;
+	/*font-weight: 400;*/
+	text-transform: uppercase;
+	color: #0bbaf0;
+}
+
+.header h3 {
+	font-weight: 900;
+}
+
+.panel {
+	background-color: rgba(255, 255, 255, 0.0000001);
+	border: none;
+	box-shadow: none;
+}
+
+.panel-default>.panel-heading {
+	background-color: #0bbaf0;
+	border: none;
+	border-radius: 0;
+}
+
+.panel-body {
+	background-color: #ffffff;
+	border: 3px solid rgba(220, 220, 220, 0.7);
+ border-radius: 0 0 6px 6px;
+ -webkit-box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+ box-shadow: 1px 1px 1px rgba(220, 220, 220, 0.1 );
+ margin: 0 5px;
+}
+
+.panel-title a {
+	color: #ffffff;
+	text-decoration: none;
+}
