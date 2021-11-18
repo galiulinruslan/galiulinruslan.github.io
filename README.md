@@ -32,7 +32,7 @@
 
 [Урок 18.1](https://galiulinruslan.github.io/lesson_18.1/ "Табы на сайте") - Вёрстка формы регистрации, с использованием табов
 
-[Урок 18.2](https://galiulinruslan.github.io/lesson_18.2/ "Аккордеон на сайте") - Вёрстка аккордеона 
+
 
 [Урок Практики. Часть 1](https://galiulinruslan.github.io/lesson_practic_part_1/ "Подготовка файлов. Верстка шапки сайта.") - Вёрстка шапки сайта 
 
