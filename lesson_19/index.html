@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Анимация</title>
+  <link rel="stylesheet" href="css/animate.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div class="container">
+    <div class="tabs wow animate__pulse" data-wow-duration="0.6s" data-wow-delay="0.3s" data-wow-iteration="2">
+      <ul>
+        <li>
+          <!-- Заголовок "Вход" -->
+          <input class="header-input" type="radio" name="tabs-0" checked="checked" id="tabs-0-0">
+            <label for="tabs-0-0" class="header-label">Вход</label>
+          </input>
+          <!-- Контент вкладки "Вход" -->
+          <div class="tabs-content">
+            <input class="enter-input" type="text" placeholder="Ваше имя">
+            <input class="enter-input" type="text" placeholder="Пароль">
+            <a class="forgot-pass" href="">Забыли пароль?</a>
+            <label class="remind-label" for="remind"><input class="remind-input" type="checkbox" name="remind">Напомнить мне</label>
+          </div>
+          <button class="btn btn-enter">Войти</button>
+        </li>
+        <li>
+          <!-- Заголовок "Регистрация" -->
+          <input class="header-input" type="radio" name="tabs-0" id="tabs-0-1"></input>
+            <label for="tabs-0-1" class="header-label">Регистрация</label>
+          </input>
+          <!-- Контент вкладки "Регистрация" -->
+          <div class="tabs-content">
+            <input class="enter-input" type="text" placeholder="Ваше имя">
+            <input class="enter-input" type="text" placeholder="Адрес электронной почты">
+          </div>
+          <button class="btn btn-reg">Регистрация</button>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <script src="js/wow.min.js"></script>
+  <script>
+    var wow = new WOW();
+    wow.init();
+  </script>
+  
+</body>
+</html>
