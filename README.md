@@ -51,3 +51,5 @@
 [Урок Практики. Часть 6](https://galiulinruslan.github.io/lesson_practic_part_6/ "Вёрстка блока с ценами.") - Вёрстка блока с ценами
 
 [Урок Практики. Часть 7](https://galiulinruslan.github.io/lesson_practic_part_7/ "Вёрстка блока с отзывами.") - Вёрстка блока с отзывами
+
+[Урок Практики. Часть 8](https://galiulinruslan.github.io/lesson_practic_part_8/ "Доверстали блок с отзывами.") - Доверстали блок с отзывами
