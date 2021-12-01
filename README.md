@@ -38,6 +38,8 @@
 
 [Урок 20](https://galiulinruslan.github.io/lesson_20/ "Видеофон на сайте") - Добавление видеофона на сайт
 
+[Урок 21](https://galiulinruslan.github.io/lesson_21/ "Parallax эффект для сайта") - Добавление Parallax-эффекта на сайт
+
 [Урок Практики. Часть 1](https://galiulinruslan.github.io/lesson_practic_part_1/ "Подготовка файлов. Верстка шапки сайта.") - Вёрстка шапки сайта 
 
 [Урок Практики. Часть 2](https://galiulinruslan.github.io/lesson_practic_part_2/ "Подключение шрифтов. Верстка первого экрана.") - Подключение шрифтов, вёрстка первого экрана, установка фонового изображения
