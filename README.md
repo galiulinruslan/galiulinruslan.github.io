@@ -42,7 +42,9 @@
 
 [Урок 22](https://galiulinruslan.github.io/lesson_22/ "Геокарты для сайта.") - Добавление геокарт для сайта.
 
-[Урок 23](http://ruslangaliulin.ru/ "Хостинг.") - Хостинг и домен.
+[Урок 23](https://galiulinruslan.github.io/lesson_23/ "Хостинг.") - Хостинг и домен.
+
+[Урок 25](https://galiulinruslan.github.io/lesson_25/ "Формы на сайте.") - Формы на сайте.
 
 [Урок Практики. Часть 1](https://galiulinruslan.github.io/lesson_practic_part_1/ "Подготовка файлов. Верстка шапки сайта.") - Вёрстка шапки сайта 
 
